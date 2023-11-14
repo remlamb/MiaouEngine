@@ -12,7 +12,7 @@ The purpose of this engine is to simulate basic physics interactions, such as co
 ## DevBlog link 
 https://remlamb.github.io/ 
 
-### Prerequisites
+## Prerequisites
 - CMake for building in Visual Studio 
 
 ### Build Instructions
@@ -25,5 +25,5 @@ https://remlamb.github.io/
     - Then Open Project in VS
     - In VS use Main as Starting Folder    
 
-### More
+## More
 This Engine was created during my formation at the SAE schools, games programming formation.
