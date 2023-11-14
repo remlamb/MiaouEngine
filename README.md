@@ -1,1 +1,29 @@
-# MiaouEngine
+# MiaouEngine : A Physics Engine in C++
+
+## Overview
+This is a simple physics engine implemented in C++ 17. 
+The purpose of this engine is to simulate basic physics interactions, such as collisions and forces.
+
+## Features Scene
+- Interaction between celestial bodies
+- Trigger detection 
+- Collision detection
+
+## DevBlog link 
+https://remlamb.github.io/ 
+
+### Prerequisites
+- CMake for building in Visual Studio 
+
+### Build Instructions
+1. Clone the repository: `git clone https://github.com/yourusername/physics-engine.git`
+2. Build the project:
+   Using CMake-GUI:
+    - give the clone Repo document in "Where is the source code"
+    - build the binairies in the build folder already created in the folder
+    - Generate using the cross platform option
+    - Then Open Project in VS
+    - In VS use Main as Starting Folder    
+
+### More
+This Engine was created during my formation at the SAE schools, games programming formation.
