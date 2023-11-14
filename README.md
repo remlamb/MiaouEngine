@@ -23,7 +23,10 @@ https://remlamb.github.io/
     - build the binairies in a build folder
     - Generate using the cross platform option
     - Then Open Project in VS
-    - In VS use Main as Starting Folder    
+    - In VS use Main as Starting Folder
+      
+### Release
+   A release is available if you just want to watch the demo scene without building.
 
 ## More
 This Engine was created during my formation at the SAE schools, games programming formation.
