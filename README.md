@@ -1,7 +1,7 @@
 # MiaouEngine : A Physics Engine in C++
 
 ## Overview
-This is a simple physics engine implemented in C++ 17. 
+This is a simple 2D physics engine implemented in C++ 17. 
 The purpose of this engine is to simulate basic physics interactions, such as collisions and forces.
 
 ## Features Scene
@@ -27,3 +27,4 @@ https://remlamb.github.io/
 
 ## More
 This Engine was created during my formation at the SAE schools, games programming formation.
+Use SDL2 library for rendering.
