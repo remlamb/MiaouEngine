@@ -10,7 +10,7 @@ The purpose of this engine is to simulate basic physics interactions, such as co
 - Collision detection
 
 ## DevBlog link 
-https://remlamb.github.io/ 
+[https://remlamb.github.io/ ](https://remlamb.github.io/engine/engine.html)
 
 ## Prerequisites
 - CMake for building in Visual Studio 
