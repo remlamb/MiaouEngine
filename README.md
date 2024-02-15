@@ -16,7 +16,7 @@ https://remlamb.github.io/
 - CMake for building in Visual Studio 
 
 ### Build Instructions
-1. Clone the repository: `git clone https://github.com/yourusername/physics-engine.git`
+1. Clone the repository: `git clone https://github.com/remlamb/MiaouEngine.git`
 2. Build the project:
    Using CMake-GUI:
     - give the clone Repo document in "Where is the source code"
